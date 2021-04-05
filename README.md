@@ -1,8 +1,8 @@
 
-    # read-me-generator 
+    # readme-generator 
     
     ## Description
-        A reusable auto-filled readme file generator.
+         An app that creates a readme file.
 
     ## Table of Contents
         - [Installation](#installation)
@@ -11,23 +11,26 @@
         - [Tests](#tests)
         - [Contributors](#contributors)
 
+    # Demonstration
+    ![gif](./assets/generator_demo.gif)
+
     ## Installation
     Packages required to run this program are: 
-    github-api
+    github-api inquirer lodash markdown-utils
     
     ## Usage
     Examples of how to use this program: 
-    lodash
+    To take input from a user and generate a readme file for a project.
 
     ## License
     MIT
 
     ## Tests
     To test, run the following command:
-    no test
+    no test for this app
 
     ## Contributors
-    me
+    just me
 
     ## Contact
     
