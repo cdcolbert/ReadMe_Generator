@@ -2,7 +2,10 @@
     # readme-generator 
     
     ## Description
-         An app that creates a readme file.
+        An app that creates a readme based on user input.
+    
+# Demo
+![gif](./assets/generator_demo.gif)
 
     ## Table of Contents
         - [Installation](#installation)
@@ -11,23 +14,20 @@
         - [Tests](#tests)
         - [Contributors](#contributors)
 
-    # Demonstration
-    ![gif](./assets/generator_demo.gif)
-
     ## Installation
     Packages required to run this program are: 
     github-api inquirer lodash markdown-utils
     
     ## Usage
     Examples of how to use this program: 
-    To take input from a user and generate a readme file for a project.
+    To create a project readme file based on user input
 
     ## License
     MIT
 
     ## Tests
     To test, run the following command:
-    no test for this app
+    no test for this
 
     ## Contributors
     just me
@@ -38,4 +38,4 @@
     
 ![Profile Image](https://github.com/cdcolbert.png?size=60)
     
-View the project in GitHub at: undefined.
+View the project in GitHub at: https://github.com/cdcolbert/ReadMe_Generator.

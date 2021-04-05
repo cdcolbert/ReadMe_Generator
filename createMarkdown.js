@@ -36,7 +36,7 @@ function createMarkdown(data) {
     ## Contact
     \n![Badge](${gitHub}) 
     \n![Profile Image](${avatar})
-    \nView the project in GitHub at: ${data.url}.`
+    \nView the project in GitHub at: ${data.link}.`
 
 }
 module.exports = createMarkdown;
